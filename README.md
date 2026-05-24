@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ottohere-Mourn,a Chinese student learning in ZJU.
 - 👀 I’m interested in ~~coding and debugging~~video games and animation.
-- 🌱 I’m currently learning CS61B.
-- 💞️  might find a way to learn game development and participate in Gamejam(?)
 - 📫 Connect me at 3311436628@qq.com
 
 
